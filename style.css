@@ -1,0 +1,25 @@
+<style>
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        body {
+            background-color: #32CBFF;
+        }
+        em {
+            color: rgb(6, 6, 195);
+        }
+        .paciencia {
+            font-size: 30px;
+        }
+        .dedicacao {
+            font-size: 20px;
+        }
+        .perseveranca {
+            font-size: 15px;
+        }
+    </style>
