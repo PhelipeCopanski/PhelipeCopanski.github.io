@@ -1,13 +1,17 @@
-        h1 {
+        header {
             font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
         }
-
-        p {
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        nav a {
+            display: inline;
+            padding: 5px;
+            text-align: center;
+            border: 1px solid black;
         }
-
         body {
             background-color: #32CBFF;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 5%;
         }
         em {
             color: rgb(6, 6, 195);
@@ -21,3 +25,18 @@
         .perseveranca {
             font-size: 15px;
         }
+        img {
+            display: inline-block;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: auto;
+            width: 150px;
+            border-radius: 10%;
+            padding: 10px;
+            background-color: azure;
+        }
+        article {
+            display: inline-block;
+            margin-left: 5%;
+        }
+      
